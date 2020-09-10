@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2299ff;
+}
+
+#header{
+    text-align: right;
+    padding: 20px 10px;
+    background-color: white;
+}
